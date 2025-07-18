@@ -10,7 +10,4 @@ fun AppNavigation(){
     NavHost(navController = navController, startDestination = "login", builder = {
 
     })
-    }
-    
-
 }
