@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "555930848806",
+    "project_id": "saluun-bba4d",
+    "storage_bucket": "saluun-bba4d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555930848806:android:eda72b9e7852939aaa20e7",
+        "android_client_info": {
+          "package_name": "com.example.saluun"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFo4ihghrxDB5xp_Isfgjmx2QOd6YfOU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
